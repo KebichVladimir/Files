@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+    <patient>
+        <firstName>Николай</firstName>
+        <secondName>Кныш</secondName>
+        <birthday>1991-04-21</birthday>
+        <healthy>true</healthy>
+    </patient>
+    <patient>
+        <firstName>Дмитрий</firstName>
+        <secondName>Ференчук</secondName>
+        <birthday>1986-01-31</birthday>
+        <healthy>false</healthy>
+    </patient>
+    <patient>
+        <firstName>Виталий</firstName>
+        <secondName>Лаппо</secondName>
+        <birthday>1970-10-14</birthday>
+        <healthy>true</healthy>
+    </patient>
+    <patient>
+        <firstName>Анатолий</firstName>
+        <secondName>Жилко</secondName>
+        <birthday>1993-07-30</birthday>
+        <healthy>true</healthy>
+    </patient>
+    <patient>
+        <firstName>Владимир</firstName>
+        <secondName>Степанюк</secondName>
+        <birthday>1968-01-02</birthday>
+        <healthy>false</healthy>
+    </patient>
+</hospital>
