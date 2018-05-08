@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ServiceStation>
+<nameService>"BOSCH service"</nameService>
+<location>Минск, улица Тимирязева 72</location>
+<customers>
+<firstName>Кныш</firstName>
+<secondName>Николай</secondName>
+<lastOrder>2017-09-25</lastOrder>
+<dateOfBirth>1991-04-21</dateOfBirth>
+<car>BMW 3</car>
+<car>Opel Astra</car>
+<discount>true</discount>
+</customers>
+<customers>
+<firstName>Ференчук</firstName>
+<secondName>Дмитрий</secondName>
+<lastOrder>2018-01-12</lastOrder>
+<dateOfBirth>1986-01-31</dateOfBirth>
+<car>Audi A8</car>
+<car>Citroen Berlingo</car>
+<car>Toyota Auris</car>
+<discount>true</discount>
+</customers>
+<customers>
+<firstName>Болгов</firstName>
+<secondName>Артем</secondName>
+<lastOrder>2017-06-12</lastOrder>
+<dateOfBirth>1978-08-24</dateOfBirth>
+<car>Audi 100</car>
+<car>Peugeot 407</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Грачёва</firstName>
+<secondName>Анна</secondName>
+<lastOrder>2018-03-02</lastOrder>
+<dateOfBirth>1990-02-21</dateOfBirth>
+<car>BMW X5</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Корбей</firstName>
+<secondName>Павел</secondName>
+<lastOrder>2017-06-05</lastOrder>
+<dateOfBirth>1963-02-15</dateOfBirth>
+<car>Toyota Avensis</car>
+<car>Citroen C4</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Топоркова</firstName>
+<secondName>Марина</secondName>
+<lastOrder>2017-02-28</lastOrder>
+<dateOfBirth>1994-08-14</dateOfBirth>
+<car>Opel Astra</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Петрухин</firstName>
+<secondName>Фёдор</secondName>
+<lastOrder>2018-01-17</lastOrder>
+<dateOfBirth>1984-06-02</dateOfBirth>
+<car>Audi TT</car>
+<car>Mercedes Viano</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Лаппо</firstName>
+<secondName>Виталий</secondName>
+<lastOrder>2017-05-12</lastOrder>
+<dateOfBirth>1999-05-02</dateOfBirth>
+<car>Peugeot 607</car>
+<car>Toyota Auris</car>
+<car>Peugeot Boxer</car>
+<discount>true</discount>
+</customers>
+<customers>
+<firstName>Жилко</firstName>
+<secondName>Анатолий</secondName>
+<lastOrder>2017-08-12</lastOrder>
+<dateOfBirth>1993-07-30</dateOfBirth>
+<car>Mercedes E220</car>
+<car>Opel Insignia</car>
+<discount>false</discount>
+</customers>
+<customers>
+<firstName>Степанюк</firstName>
+<secondName>Владимир</secondName>
+<lastOrder>2017-09-15</lastOrder>
+<dateOfBirth>1968-01-02</dateOfBirth>
+<car>Lada Vesta</car>
+<discount>false</discount>
+</customers>
+</ServiceStation>
