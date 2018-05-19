@@ -1,0 +1,88 @@
+{
+  "nameService": "BOSCH service",
+  "location": "Минск, улица Тимирязева 72",
+  "customers": [
+    {
+      "firstName": "Лукин",
+      "secondName": "Антон",
+      "lastOrder": "2018-04-12",
+      "dateOfBirth": "1993-10-12",
+      "car": [
+        "Opel Astra",
+        "Audi A8"
+      ],
+      "discount": true
+    },
+    {
+      "firstName": "Сафьян",
+      "secondName": "Илья",
+      "lastOrder": "2017-06-05",
+      "dateOfBirth": "1965-05-30",
+      "car": [
+        "Toyota Auris"
+      ],
+      "discount": true
+    },
+    {
+      "firstName": "Шевелев",
+      "secondName": "Михаил",
+      "lastOrder": "2017-10-13",
+      "dateOfBirth": "1992-12-01",
+      "car": [
+        "Audi 100"
+      ],
+      "discount": false
+    },
+    {
+      "firstName": "Маскалев",
+      "secondName": "Роман",
+      "lastOrder": "2018-03-12",
+      "dateOfBirth": "1984-03-22",
+      "car": [
+        "Citroen C4"
+      ],
+      "discount": false
+    },
+    {
+      "firstName": "Королевич",
+      "secondName": "Олег",
+      "lastOrder": "2017-09-20",
+      "dateOfBirth": "1995-03-03",
+      "car": [
+        "Citroen C4"
+      ],
+      "discount": false
+    },
+    {
+      "firstName": "Бондарик",
+      "secondName": "Марина",
+      "lastOrder": "2017-04-21",
+      "dateOfBirth": "1981-12-21",
+      "car": [
+        "BMW 525"
+      ],
+      "discount": false
+    },
+    {
+      "firstName": "Лаппо",
+      "secondName": "Фёдор",
+      "lastOrder": "2018-03-17",
+      "dateOfBirth": "1965-07-10",
+      "car": [
+        "Audi A8",
+        "Mercedes A180"
+      ],
+      "discount": false
+    },
+    {
+      "firstName": "Рыбенков",
+      "secondName": "Владимир",
+      "lastOrder": "2017-09-30",
+      "dateOfBirth": "1977-02-27",
+      "car": [
+        "Lada Xray"
+      ],
+      "discount": false
+    }
+  ]
+}
